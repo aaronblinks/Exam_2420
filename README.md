@@ -41,11 +41,35 @@ Go into insert mode and replace with :digits:
 
 # Part 3
 
+For the options I inputted
+
+>man journalctl
+
+then entered
+
+>/
+
+With this I could search keywords based on the following prompts
+
+- print logs for the current boot
+- logs should have a priority of warning or more important
+- output in a nice pretty json.
+
 ![print logs for the current boot](/Images/Currentboot.png)
+
+I searched for current boot
 
 ![logs should have a priority of warning or more important](/Images/Priority_of_Warning.png)
 
+I searched for warning
+
 ![output in a nice pretty json.](/Images/Output_prettyjson.png)
+
+I searched for json
+
+# Part 4
+
+
 
 
 
