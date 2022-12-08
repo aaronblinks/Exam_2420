@@ -37,7 +37,7 @@ Go into insert mode and replace with echo
 
 Go into insert mode and replace with :digits:
 
-![Screenshot of edited file](2420_finalexam/Images/Part2_Screenshot)
+![Screenshot of edited file](Images/Part2_Screenshot)
 
 # Part 3
 
