@@ -23,13 +23,24 @@ Difference between two code blocks in line two, is eco and echo
 
 Go to the letter c by inputting
 
->/eco
+>/eco 
 
 Go into insert mode and replace with echo
 
 Difference between two code blocks in line 10, is eco and echo, as well as numbs and :digits:
 
 >/eco
+
+Go into insert mode and replace with echo
+
+>/numbs
+
+Go into insert mode and replace with :digits:
+
+![Screenshot of edited file](2420_finalexam/Images/Part2_Screenshot)
+
+# Part 3
+
 
 
 
