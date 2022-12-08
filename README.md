@@ -41,6 +41,12 @@ Go into insert mode and replace with :digits:
 
 # Part 3
 
+![print logs for the current boot](/Images/Currentboot.png)
+
+![logs should have a priority of warning or more important](/Images/Priority_of_Warning.png)
+
+![output in a nice pretty json.](/Images/Output_prettyjson.png)
+
 
 
 
